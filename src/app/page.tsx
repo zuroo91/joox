@@ -26,7 +26,7 @@ export default function JooxClone() {
 
               <div className="space-y-6">
                 <p className="text-lg lg:text-xl leading-relaxed">
-                  It's the <span className="font-bold">FREE</span> music player app with more than 40 million songs from
+                  Its the <span className="font-bold">FREE</span> music player app with more than 40 million songs from
                   all over the world. Enjoy social music experience with Karaoke, Live
                   video group chat rooms, and trending short videos
                 </p>
@@ -195,7 +195,7 @@ export default function JooxClone() {
                   JOOX<br />Karaoke
                 </h3>
                 <p className="text-sm leading-relaxed">
-                  Enjoy JOOX's karaoke feature, which allows you to sing, dance your go-to Karaoke songs and duet with your favorite singers anytime, anywhere.
+                  Enjoy JOOXs karaoke feature, which allows you to sing, dance your go-to Karaoke songs and duet with your favorite singers anytime, anywhere.
                 </p>
               </div>
             </div>
@@ -280,7 +280,7 @@ export default function JooxClone() {
             <h3 className="text-2xl font-bold mb-6">Contact US</h3>
 
             <p className="text-gray-300 mb-8 leading-relaxed">
-              We're always looking for ways to improve your experience. Follow us and send us your feedback to
+              Were always looking for ways to improve your experience. Follow us and send us your feedback to
               support JOOX. Your comments and suggestions are greatly appreciated!
             </p>
 
